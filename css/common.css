@@ -7,6 +7,9 @@ body {
 }
 
 :root {
+  /* Layout */
+  --base-unit:27px;
+  
   /* Color styles */
   --black: rgba(44, 44, 44, 1);
   --light--gray: rgba(168, 168, 168, 1);
